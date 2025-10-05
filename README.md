@@ -58,10 +58,8 @@ npm start</code></pre>
       <h2>🔗 Live Links</h2>
       <p class="small">Add your project URLs and repo links below:</p>
       <ul>
-        <li>Frontend (Vercel): <a href="#">Add your Vercel URL</a></li>
-        <li>Backend (Render): <a href="#">Add your Render URL</a></li>
-        <li>GitHub Frontend: <a href="#">Add frontend repo link</a></li>
-        <li>GitHub Backend: <a href="#">Add backend repo link</a></li>
+        <li>Frontend (Vercel): <a href="#">https://employee-management-iota-nine.vercel.app/</a></li>
+        <li>Backend (Render): <a href="#">https://crud-app-q4e0.onrender.com/</a></li>
       </ul>
     </section>
     <section>
